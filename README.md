@@ -12,3 +12,7 @@ Compartilho com vocês mais um passo importante na minha jornada com IoT: o dese
  ⚠️ Lógica condicional para alertas e controle de limites seguros.
 
 Esse projeto me permitiu integrar hardware com software, aplicar a lógica de programação em nós funcionais e automatizar a comunicação de dados com o usuário final. Uma experiência enriquecedora e prática! 
+
+
+
+VEJA AS IMAGENS DO PROJETO NO MEU LINKED-IN: https://lnkd.in/gBvVuyyf
